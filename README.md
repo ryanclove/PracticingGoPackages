@@ -25,14 +25,14 @@ or with covered packages in more detail
 
 - [hash](https://pkg.go.dev/hash@go1.19.1)
 
-- [regex](https://pkg.go.dev/regexp@go1.19.1)]
+- [regex](https://pkg.go.dev/regexp@go1.19.1)
 
 - [io/ioutil](https://pkg.go.dev/io/ioutil@go1.19.1)
     - read/write files
 
 ## Packages covered in course, but might like more detail
 
-- [crypto](https://pkg.go.dev/crypto@go1.19.1
+- [crypto](https://pkg.go.dev/crypto@go1.19.1)
     - [repo course example](https://github.com/ryanclove/LearningGoProgramming/blob/master/Lecture%20Sections/Section%2018%20Application/Sec%2018.143/main.go)
 
 - [context](https://pkg.go.dev/context@go1.19.1#pkg-index)
