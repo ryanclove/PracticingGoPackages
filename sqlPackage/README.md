@@ -7,11 +7,11 @@ Used this page as reference to utilizing the package:
 
 Needed mySQL Workbench and login to my root server
 
-Commands I used in the mySQL Command Line Client:
-<create database recordings;>
-<use recordings;>
-<status>
-<source C:/Users/ryanc/Documents/go-workspace/src/github.com/ryanclove/PracticingGoPackages/sqlPackage/data-access/create-tables.sql>
+Commands I used in the mySQL Command Line Client:  
+<create database recordings;>  
+<use recordings;>  
+<status>  
+<source C:/Users/ryanc/Documents/go-workspace/src/github.com/ryanclove/PracticingGoPackages/sqlPackage/data-access/create-tables.sql>  
 
 ## Driver notes
 
@@ -20,7 +20,7 @@ In your browser, visit the [SQLDrivers](https://github.com/golang/go/wiki/SQLDri
 
 ## GO code
 
-You’ll use a pointer to an sql.DB struct, which represents access to a specific database.
+You’ll use a pointer to an sql.DB struct, which represents access to a specific database.  
     - var db *sql.DB
 
 - In this code, you:
