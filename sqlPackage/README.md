@@ -9,13 +9,13 @@ Needed mySQL Workbench and login to my root server
 
 Commands I used in the mySQL Command Line Client:  
 
-> create database recordings;  
+`> create database recordings;`  
 
-> use recordings;  
+`> use recordings;`  
 
-> status  
+`> status`  
 
-> source C:/Users/ryanc/Documents/go-workspace/src/github.com/ryanclove/PracticingGoPackages/sqlPackage/data-access/create-tables.sql  
+`> source C:/Users/ryanc/Documents/go-workspace/src/github.com/ryanclove/PracticingGoPackages/sqlPackage/data-access/create-tables.sql`  
 
 ## Driver notes
 
