@@ -41,15 +41,15 @@ You’ll use a pointer to an sql.DB struct, which represents access to a specifi
 
 ## Run the code
 
-go get .
+`go get .`
 
-Windows:
-C:\Users\you\data-access> set DBUSER=username
-C:\Users\you\data-access> set DBPASS=password
+Windows:  
+C:\Users\you\data-access> `set DBUSER=username`  
+C:\Users\you\data-access> `set DBPASS=password  `
 
 Error 1045: Access denied for user ''@'localhost' (using password: NO)
 exit status 1
 
-go run .
+`go run .`
 
 Where I left off: https://go.dev/doc/tutorial/database-access#:~:text=export%20DBPASS%3Dpassword-,On%20Windows%3A,-C%3A%5CUsers%5Cyou
