@@ -8,10 +8,10 @@ Used this page as reference to utilizing the package:
 Needed mySQL Workbench and login to my root server
 
 Commands I used in the mySQL Command Line Client:  
-<create database recordings;>  
-<use recordings;>  
-<status>  
-<source C:/Users/ryanc/Documents/go-workspace/src/github.com/ryanclove/PracticingGoPackages/sqlPackage/data-access/create-tables.sql>  
+<create database recordings;  
+<use recordings;  
+<status 
+<source C:/Users/ryanc/Documents/go-workspace/src/github.com/ryanclove/PracticingGoPackages/sqlPackage/data-access/create-tables.sql  
 
 ## Driver notes
 
