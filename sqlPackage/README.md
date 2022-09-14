@@ -47,9 +47,5 @@ Windows:
 C:\Users\you\data-access> `set DBUSER=username`  
 C:\Users\you\data-access> `set DBPASS=password  `
 
-Error 1045: Access denied for user ''@'localhost' (using password: NO)
-exit status 1
-
 `go run .`
 
-Where I left off: https://go.dev/doc/tutorial/database-access#:~:text=export%20DBPASS%3Dpassword-,On%20Windows%3A,-C%3A%5CUsers%5Cyou

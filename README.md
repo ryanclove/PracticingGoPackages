@@ -6,6 +6,27 @@ or with covered packages in more detail
 
 **Packages listed mostly are links in version @go1.19.1** at creation of this doc/repo
 
+## Packages used at work
+
+- [Promethius](https://pkg.go.dev/github.com/prometheus/common/model)
+    - [Github link](https://github.com/prometheus/common)
+
+- [Opentracing](https://pkg.go.dev/github.com/opentracing/opentracing-go)
+    - [Github link](https://github.com/opentracing/opentracing-go)
+    - double check this is the right package/github
+
+- [net](https://pkg.go.dev/net)
+    - is part of standard library
+
+- [os/signal](https://pkg.go.dev/os#Signal)
+    - is part of standard library
+
+- [syscall](https://pkg.go.dev/syscall)
+    - is part of standard library
+
+- [strconv](https://pkg.go.dev/strconv)
+    - is part of standard library
+
 ## Packages of Interest:
 
 [Link to standard library](https://pkg.go.dev/std)
