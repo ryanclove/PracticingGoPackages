@@ -14,7 +14,7 @@ or with covered packages in more detail
 - [Opentracing](https://pkg.go.dev/github.com/opentracing/opentracing-go)
     - [Github link](https://github.com/opentracing/opentracing-go)
 
-- [hashicorp/go-retryable](https://github.com/hashicorp/go-retryablehttp)
+- [hashicorp/go-retryable](https://pkg.go.dev/github.com/hashicorp/go-retryablehttp)
     - [Github link](https://github.com/hashicorp/go-retryablehttp)
 
 - [go-stomp/stomp](https://pkg.go.dev/github.com/go-stomp/stomp/v3)
