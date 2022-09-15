@@ -13,7 +13,12 @@ or with covered packages in more detail
 
 - [Opentracing](https://pkg.go.dev/github.com/opentracing/opentracing-go)
     - [Github link](https://github.com/opentracing/opentracing-go)
-    - double check this is the right package/github
+
+- [hashicorp/go-retryable](https://github.com/hashicorp/go-retryablehttp)
+    - [Github link](https://github.com/hashicorp/go-retryablehttp)
+
+- [go-stomp/stomp](https://pkg.go.dev/github.com/go-stomp/stomp/v3)
+    - [Github link](https://github.com/go-stomp/stomp)
 
 - [net](https://pkg.go.dev/net)
     - is part of standard library
